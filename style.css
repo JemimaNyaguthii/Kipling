@@ -1,0 +1,44 @@
+div{
+    margin-top: 20px;
+}
+
+h4{
+display: flex;
+gap: 10%;
+color: white;
+
+
+}
+button{
+border-radius: 30px;
+padding: 10px 30px;
+border-color: white;
+border-style: ridge;
+background-color: #ffe066;
+
+}
+button1{
+border-radius: 30px;
+background-color: #ffe066;
+color: #ae3ec9;
+padding: 10px 20px;
+
+
+}
+h1{
+color: white;
+}
+.content{
+padding-left: 50px;
+
+}
+
+body{
+background-color: #ae3ec9;
+}
+.list{
+padding-left:4%;
+}
+img{
+    float: right;
+}
